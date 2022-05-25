@@ -1,0 +1,26 @@
+    .card{
+    display: flex;
+    background-color:rgb(33, 37, 41);
+    border-radius: 0px;
+    padding: 10px;
+  };
+
+  .button__icon{
+    display:flex;
+    cursor: pointer;
+  }
+
+  .container{
+    display: fill;
+    background-color: rgb(33, 37, 41);
+  }
+
+  h1{
+    display: fill;
+    background-color: rgb(33, 37, 41);
+  }
+
+  .video{
+    grid-column: 1 / span 2;
+    background-color: rgb(33, 37, 41);
+  }

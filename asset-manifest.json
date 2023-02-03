@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ef369e5.css",
+    "main.js": "/static/js/main.ed99d242.js",
+    "static/media/RTBT.png": "/static/media/RTBT.6a457c15bfd73e7bd1e0.png",
+    "static/media/FooterBanner.png": "/static/media/FooterBanner.7da68bdae74127441de9.png",
+    "static/media/MERN.jpg": "/static/media/MERN.2e56d8b8f9039fdc5fa1.jpg",
+    "static/media/pacmen.png": "/static/media/pacmen.58c503deec51384fd8de.png",
+    "static/media/eyes.png": "/static/media/eyes.eaf29afc5cbcfc8146f5.png",
+    "static/media/BankApp.webp": "/static/media/BankApp.cd803838302732c1804c.webp",
+    "index.html": "/index.html",
+    "main.4ef369e5.css.map": "/static/css/main.4ef369e5.css.map",
+    "main.ed99d242.js.map": "/static/js/main.ed99d242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef369e5.css",
+    "static/js/main.ed99d242.js"
+  ]
+}

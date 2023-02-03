@@ -1,0 +1,58 @@
+    .card {
+      display: flex;
+      background-color: rgb(33, 37, 41);
+      border-radius: 0px;
+      padding: 10px;
+      font-family: 'Kanit', sans-serif;
+    }
+
+    .navbar {
+      display: flex;
+      background-color: rgb(111, 127, 151);
+      border-radius: 0px;
+      padding: 10px;
+      font-family: 'Kanit', sans-serif;
+    }
+
+
+    .button__icon__LinkedIn {
+      display: flex;
+      cursor: pointer;
+      background-color: #0c61bf;
+      font-family: 'Kanit', sans-serif;
+    }
+
+    .button__icon__GitHub {
+      display: flex;
+      background-color: #161b22;
+      cursor: pointer;
+      font-family: 'Kanit', sans-serif;
+    }
+
+    .button__icon__Email {
+      display: fixed;
+      background-color: #2e65b2;
+      cursor: pointer;
+      font-family: 'Kanit', sans-serif;
+    }
+
+    .button__icon__Project {
+      display: center;
+      background-color: #e4b712;
+      cursor: pointer;
+      font-family: 'Kanit', sans-serif;
+    }
+
+    .container {
+      display: fill;
+    }
+
+    h1 {
+      display: fill;
+      background-color: rgb(33, 37, 41);
+    }
+
+    .video {
+      grid-column: 1 / span 2;
+      background-color: rgb(33, 37, 41);
+    }
